@@ -1,0 +1,8 @@
+streamlit
+chromadb
+openai
+pypdf
+sentence-transformers
+flashrank
+reportlab
+python-dotenv
